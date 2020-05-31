@@ -1,0 +1,26 @@
+h1{
+    color: white;
+    margin-left:600px;
+    margin-right:600px;
+}
+.header{
+    background-color:lightblue;
+    text-align: center;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+h2,p{
+    text-align: center;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+} 
+
+body{
+    background-color: #808080;
+}
